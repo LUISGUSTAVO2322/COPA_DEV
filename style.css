@@ -1,4 +1,22 @@
-body{
-    background-color: blue;
+body {
+    background-image: url("./img/argentina_bandeira.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+img{
+    justify-content: center;
+    display: flex;
+    margin: auto;
 }
